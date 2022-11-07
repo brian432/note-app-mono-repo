@@ -1,0 +1,16 @@
+.home{
+    padding: 100px 3rem 0 3rem;
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+.notes{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top:1rem
+}
+
+.notes button{
+    margin-left: 1rem;
+}
